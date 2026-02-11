@@ -14,7 +14,7 @@ Recently I've been working on open-source developer tooling for the WebAssembly 
 **Approach**
 - Understand how and why things work (or don't)
 - Let engineering best practices shape software direction
-- Ensure dev teams maintain intellectual ownership of the code they write - No autopilot
+- Ensure dev teams maintain intellectual ownership of the code they write - no mental autopilot
 
 ### Open-Source
 
