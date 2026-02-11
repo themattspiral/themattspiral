@@ -18,7 +18,7 @@ Recently I've been working on open-source developer tooling for the WebAssembly 
 
 ### Open-Source
 
-**[vitest-pool-assemblyscript](https://github.com/themattspiral/vitest-pool-assemblyscript)** - An integration that brings native [AssemblyScript](https://www.assemblyscript.org) WASM testing capabilities to [Vitest](https://vitest.dev/). My aim for this project is to bring the excellent DX users expect from Vitest to AssemblyScript testing, and to make it just as painless to adopt.
+**[vitest-pool-assemblyscript](https://github.com/themattspiral/vitest-pool-assemblyscript)** - An integration that brings native [AssemblyScript](https://www.assemblyscript.org) WASM testing capabilities to [Vitest](https://vitest.dev/). I want to bring the excellent DX of Vitest to AssemblyScript testing, so that it is just as painless to adopt.
 
 **[fast-prng-wasm](https://github.com/themattspiral/fast-prng-wasm)** - A suite of production-grade pseudo-random number generators for WebAssembly. Seamless to adopt with TypeScript in Node and all modern browsers - Zero WASM knowledge required.
 
