@@ -13,8 +13,8 @@ Recently I've been working on open-source developer tooling for the WebAssembly 
 
 **Approach**
 - Understand how and why things work (or don't)
-- Let engineering best practices shape software direction
-- Ensure dev teams maintain intellectual ownership of the code they write - no mental autopilot
+- Let engineering best practices drive architecture
+- Ensure dev teams maintain intellectual ownership of their code - no mental autopilot
 
 ### Open-Source
 
