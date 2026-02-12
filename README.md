@@ -8,7 +8,7 @@ Recently I've been working on open-source developer tooling for the WebAssembly 
 
 ### ⚡ Quick Stats
 - 14 years in software engineering & leadership (including people management)
-- Primary, go-deep stack is Node/TypeScript/React
+- Primary, go-deep stack is Node / TypeScript / React
 - Broad tech generalist background (Java, C#, Angular, SQL, NoSQL, Cloud DevOps, sysadmin/IT)
 
 ### 🧠 My General Approach
