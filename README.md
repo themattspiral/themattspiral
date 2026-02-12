@@ -2,21 +2,20 @@
 
 I'm an engineering leader, full-stack developer, builder and tinkerer. I focus on writing and delivering software intelligently.
 
-I beieve building, extending, and maintaining software well is still a science, discipline, art, and contruction project best suited to teams of people (even if AI assisstance is used).
+I believe building, extending, and maintaining software well is still a science, a discipline, and a craft - work best suited to teams of people (even with AI assistance).
 
 Recently I've been working on open-source developer tooling for the WebAssembly ecosystem.
 
 **Quick Stats**
 - 14 years in software engineering & leadership
-- Node/TypeScript/React is my primary go-deep stack, and web architecture my domain strength
-- Broad tech generalist abilities (Java, C#, Angular, DevOps, Arduino, sysadmin) and lead experience (team, arch, culture, people management)
+- Node/TypeScript/React is my primary go-deep stack
+- Broad tech generalist (Java, C#, Angular, DevOps, sysadmin)
 
 **My General Approach**
 - Support the people around me
-- Understand how and why things work, or don't (tech and process)
-- Choose engineering best practices over quick-fixes (when possible)
+- Understand how and why things work, or don't (both tech and process)
+- Let engineering best practices guide architectural decisions
 - Ensure teams maintain intellectual ownership of their output (no mental autopilot)
-- Do the work that needs to be done, transparently
 
 ### Open-Source
 
@@ -32,7 +31,7 @@ I've spent 14 years building software, most recently as a Solution Principal at 
 
 My primary stack is Node and TypeScript, with React web frontends.
 
-I've also shipped production systems in Java Spring, C#, and Angular on dedicate, AWS, and GCP infrastructure, with deep experience in CI pipelines, enterprise integrations, and system architecture.
+I've also shipped production systems in Java Spring, C#, and Angular on AWS and GCP infrastructure, with deep experience in CI pipelines, enterprise integrations, and system architecture.
 
 ### Currently...
 
