@@ -1,20 +1,22 @@
 ## Matt Ritter
 
-I'm an engineering leader and full-stack developer.
+I'm an engineering leader, full-stack developer, builder and tinkerer. I focus on writing and delivering software intelligently.
 
-I focus on writing software intelligently. I believe *describing* software is not the same thing as *building, extending, and maintaining* it.
+I beieve building, extending, and maintaining software well is still a science, discipline, art, and contruction project best suited to teams of people (even if AI assisstance is used).
 
 Recently I've been working on open-source developer tooling for the WebAssembly ecosystem.
 
 **Quick Stats**
 - 14 years in software engineering & leadership
-- Open source contributor: WebAssembly and test framework developer tooling
-- Node/TypeScript/React primary stack, with broad generalist capabilities
+- Node/TypeScript/React is my primary go-deep stack, and web architecture my domain strength
+- Broad tech generalist abilities (Java, C#, Angular, DevOps, Arduino, sysadmin) and lead experience (team, arch, culture, people management)
 
-**Approach**
-- Understand how and why things work (or don't)
-- Let engineering best practices drive architecture
-- Ensure dev teams maintain intellectual ownership of their code - no mental autopilot
+**My General Approach**
+- Support the people around me
+- Understand how and why things work, or don't (tech and process)
+- Choose engineering best practices over quick-fixes (when possible)
+- Ensure teams maintain intellectual ownership of their output (no mental autopilot)
+- Do the work that needs to be done, transparently
 
 ### Open-Source
 
@@ -30,11 +32,11 @@ I've spent 14 years building software, most recently as a Solution Principal at 
 
 My primary stack is Node and TypeScript, with React web frontends.
 
-I've also shipped production systems in Java Spring, C#, Angular, and Vue, on AWS and GCP infrastructure, with deep experience in CI pipelines, enterprise integrations, and system architecture.
+I've also shipped production systems in Java Spring, C#, and Angular on dedicate, AWS, and GCP infrastructure, with deep experience in CI pipelines, enterprise integrations, and system architecture.
 
 ### Currently...
 
-My recent open-source work has been deliberate. I've learned the most from communities that value building things correctly - where collaboration and shared ownership matter as much as the code itself - so I'd like to contribute back to that ecosystem.
+My recent open-source work has been deliberate. I've learned the most from communities that value building things with pride - where collaboration and shared ownership matter as much as the code itself - so I'd like to contribute back to that ecosystem by creating something useful.
 
 I'm looking for engineering roles where I can build things and help teams work better, whether that's as a manager, IC, or somewhere in between. I'm particularly excited about developer tooling, platform teams, or anywhere WebAssembly is becoming real infrastructure.
 
