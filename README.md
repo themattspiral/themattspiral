@@ -19,7 +19,7 @@ I believe building, extending, and maintaining software well is still a discipli
 
 - **[vitest-pool-assemblyscript](https://github.com/themattspiral/vitest-pool-assemblyscript)**: Native [AssemblyScript](https://www.assemblyscript.org) WASM testing capabilities for [Vitest](https://vitest.dev/). Preserving first-class DX for AssemblyScript-to-WASM testing: familiar `expect()` API for statically-typed AssemblyScript; broad platform support for native instrumentation; Vitest-style stack traces and highlighted code snippets; coexists with JS/TS tests and integrates reporting; performance-optimized for WASM workloads while maintaining isolation
 
-- **[fast-prng-wasm]()** - High-performance, SIMD-enabled WebAssembly pseudo-random number generator suite. Seamless to adopt with TypeScript in Node & all modern browsers. Zero WASM user knowledge required.
+- **[fast-prng-wasm](https://github.com/themattspiral/fast-prng-wasm)** - High-performance, SIMD-enabled WebAssembly pseudo-random number generator suite. Seamless to adopt with TypeScript in Node & all modern browsers. Zero WASM user knowledge required.
 
 ### ⌛ Current Work
 
