@@ -1,19 +1,19 @@
 ## Matt Ritter
 
-I'm an engineering leader, full-stack developer, and builder.
-
-I believe building, extending, and maintaining software well is still a discipline and craft best suited to teams of people - even with AI assistance.
+I'm an engineering leader, full-stack developer, and builder. I have a tenacious drive to understand how things work.
 
 ### ⚡ Quick Stats
-- 14 years in software engineering & leadership (including people management)
-- Primary, go-deep stack is Node / TypeScript / React
-- Broad tech generalist background (Java, C#, Angular, SQL, NoSQL, Cloud DevOps, CI/CD, sysadmin/IT)
+- 14 years in software engineering, with 5 in engineering management
+- Primary stack: Node / TypeScript / React
+- Broad tech generalist experience: Java, Angular, SQL, NoSQL, Cloud infrastructure, CI/CD, sysadmin/IT
 
 ### 🧠 Approach
-- Support the people around me
-- Understand how and why things work, or don't work, including both tech and process
-- Let engineering best practices guide architectural decisions, balanced with pragmatism
-- Maintain intellectual ownership of output, no mental autopilot
+- Support the people around me, share knowledge, collaborate
+- Understand how and why things work, or don't, including both tech and process
+- Let engineering best practices drive architectural decisions, but be pragmatic about limitations
+- Maintain intellectual ownership of output: no mental autopilot, no vide coding for real projects, review everything
+
+I believe building and maintaining software well is still best suited to people, first and foremost. LLM-based AI assistance is best used specifically and intentionally, rather than automatically.
 
 ### 🌐 Open-Source
 
@@ -25,9 +25,7 @@ I believe building, extending, and maintaining software well is still a discipli
 
 My recent open-source work has been deliberate, trying to contribute something useful back to the ecosystem while strengthing my skills in WebAssembly, C++, and broad cross-platform CI testing.
 
-I'm looking for an engineering role where I can build things and help teams work better, whether that's as a manager, IC, or somewhere in between. I'm particularly excited about developer tooling, platform teams, or anywhere WebAssembly is becoming real infrastructure.
-
-Open to talking: matthew.d.ritter@gmail.com
+I'm looking for an engineering role where I can build useful things and help teams work their best.
 
 ### 🤓 Background
 
