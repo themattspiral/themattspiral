@@ -1,6 +1,8 @@
 ## Matt Ritter
 
-I'm an engineering leader, full-stack developer, and builder. I have a tenacious drive to understand how things work, and leave them better than I found them.
+I'm an engineering leader, full-stack developer, and builder.
+
+I have a tenacious drive to understand how things work, and leave them better than I found them.
 
 ### ⚡ Quick Stats
 - 14 years in software engineering, with 5 in engineering management
