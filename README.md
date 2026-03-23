@@ -1,6 +1,6 @@
 ## Matt Ritter
 
-I'm an engineering leader, full-stack developer, and builder. I have a tenacious drive to understand how things work.
+I'm an engineering leader, full-stack developer, and builder. I have a tenacious drive to understand how things work, and leave them better than I found them.
 
 ### ⚡ Quick Stats
 - 14 years in software engineering, with 5 in engineering management
@@ -10,10 +10,9 @@ I'm an engineering leader, full-stack developer, and builder. I have a tenacious
 ### 🧠 Approach
 - Support the people around me, share knowledge, collaborate
 - Understand how and why things work, or don't, including both tech and process
-- Let engineering best practices drive architectural decisions, but be pragmatic about limitations
+- Let engineering best practices drive architectural decisions, be pragmatic about limitations
 - Maintain intellectual ownership of output: no mental autopilot, no vide coding for real projects, review everything
-
-I believe building and maintaining software well is still best suited to people, first and foremost. LLM-based AI assistance is best used specifically and intentionally, rather than automatically.
+- AI assistance is most effective used specifically and intentionally, rather than automatically
 
 ### 🌐 Open-Source
 
