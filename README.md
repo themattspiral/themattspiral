@@ -7,7 +7,7 @@ I have a tenacious drive to understand how things work, and leave them better th
 ### ⚡ Quick Stats
 - 15 years in software engineering, with 5 in engineering leadership
 - Primary stack: Node / TypeScript / React
-- Broad tech generalist experience: Java, Angular, SQL, NoSQL, Cloud infrastructure (AWS, GCP), CI/CD, sysadmin/IT, WebAssembly, Arduino
+- Broad tech generalist: Java, Angular, SQL, NoSQL, Cloud infrastructure (AWS, GCP), CI/CD, sysadmin/IT, WebAssembly, Arduino
 
 ### 🧠 Approach
 - Support the people around me: share knowledge, provide psychological safety, unblock
