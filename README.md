@@ -5,16 +5,16 @@ I'm an engineering leader, full-stack developer, and builder.
 I have a tenacious drive to understand how things work, and leave them better than I found them.
 
 ### ⚡ Quick Stats
-- 14 years in software engineering, with 5 in engineering management
+- 15 years in software engineering, with 5 in engineering leadership
 - Primary stack: Node / TypeScript / React
-- Broad tech generalist experience: Java, Angular, SQL, NoSQL, Cloud infrastructure, CI/CD, sysadmin/IT
+- Broad tech generalist experience: Java, Angular, SQL, NoSQL, Cloud infrastructure (AWS, GCP), CI/CD, sysadmin/IT, WebAssembly, Arduino
 
 ### 🧠 Approach
-- Support the people around me, share knowledge, collaborate
+- Support the people around me: share knowledge, provide psychological safety, unblock
 - Understand how and why things work, or don't, including both tech and process
-- Let engineering best practices drive architectural decisions, be pragmatic about limitations
-- Maintain intellectual ownership of output: no mental autopilot, no vide coding for real projects, review everything
-- AI assistance is most effective used specifically and intentionally, rather than automatically
+- Balance being ideal and realistic: let engineering best-practices drive decisions, be pragmatic about limitations
+- Maintain intellectual ownership of output: no mental autopilot, always vet and review
+- AI assistance is most effective used intentionally, rather than automatically
 
 ### 🌐 Open-Source
 
@@ -30,7 +30,7 @@ I'm looking for an engineering role where I can build useful things and help tea
 
 ### 🤓 Background
 
-I've spent 14 years building software, most recently as a Solution Principal at Slalom Build where I wrote code, designed web architecture, and led engineering delivery teams for Fortune 500 clients across industries.
+I've spent 15 years building software, most recently as a Solution Principal at Slalom Build where I wrote code, designed web architecture, and led engineering delivery teams for Fortune 500 clients across industries.
 
 Being a mentor and people manager has been one of the most satisfying parts of working as an engineering leader. I love teaching, talking through hard problems, and offering new perspectives.
 
